@@ -5,4 +5,4 @@
 
 **git branch - показать все ветки**
 
-**git merge - слияние веток**
+**git checkout -b "namebranch" - создание и переход на ветку**
