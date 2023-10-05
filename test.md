@@ -1,9 +1,8 @@
-# Основные команды Git
-**git init - инициализация локального репозитория**111
-
-**git add - добавить файл или файлы к следующему коммиту**
-
-**git branch - показать все ветки**111
-
-**git checkout -b "namebranch" - создание и переход на ветку**
-офигеть111
+# dfgdfgdfgОсновные команды Git
+**git idgfdfnit - инициализация локальногdgdgddfgdffgо репозитория**
+dgfgdf
+**git addgdfgdfgd - добавить файл иdgfgdfgли файлы к следуdfgdfющему коммиту**
+gdfgdf
+**git branch - показать все ветки**dgddggfdfg
+gddgdf
+**git checkout -b "namebranch" - создание и пdgdfgdfdgdfgереход на ветку**
